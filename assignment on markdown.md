@@ -31,8 +31,7 @@ The installation process for Chrome is the same as for Microsoft Edge, Brave, an
 
 **Step 1**: On your web browser, go to glasp.co the official website for the web app. Click on install on Chrome The process is the same for Microsoft Edge, Brave, and Firefox. For other web browsers such as Edge, Brave, or Firefox; instead of Add To Chrome, you will find GET.
 
-
-
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2hv3mgopamglcjjr77qy.png)
 **Step 2**: Once the new link appears, select ADD TO CHROME.
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oc5c5s7s4v8kng2bw2cs.png)
