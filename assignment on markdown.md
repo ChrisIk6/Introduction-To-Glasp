@@ -1,8 +1,7 @@
-**GLASP: A USER GUIDE**
+# INTRODUCTION TO GLASP
 
-**INTRODUCTION TO GLASP**
 
-**What is Glasp?**
+## What is Glasp?
 
 Glasp is an online highlighter that enables you to store and organize quotes and ideas from the internet while also giving you access to other people's saved content who share your interests. With this practical tool, you can study and work with people more easily without having to flip between separate displays.
 
@@ -10,7 +9,7 @@ Glasp is a social highlighting tool that enables you to collect and arrange quot
 
 Users that apply this method of learning may discover connections and patterns that they might not have found on their own.
 
-**FEATURES OF GLASP**
+## FEATURES OF GLASP
 
 Glasp has a lot of features that stand out, and here are a few of them.
 
@@ -22,11 +21,11 @@ Glasp has a lot of features that stand out, and here are a few of them.
 
 **Learning In Public:** On Glasp, you can view what your friends are reading as well as share what you're reading with them. It's similar to a virtual book club where you may talk about your favorite books and your ideas about them. You can underline crucial passages or statements from books about Glasp that you think are particularly insightful or instructive.
 
-**HOW TO ADD GLASP EXTENSION ON A PC**
+## HOW TO ADD GLASP EXTENSION ON A PC
 
 The process to add a Glasp extension on a pc is somewhat of a simple task, here is a step-by-step process.
 
-**HOW TO ADD GLASP EXTENSION ON CHROME**
+### HOW TO ADD GLASP EXTENSION ON CHROME
 
 The installation process for Chrome is the same as for Microsoft Edge, Brave, and Firefox.
 
@@ -68,7 +67,7 @@ Reload the page to see the remove icon once you’re done with the installation.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z1jfprgotyakatluy388.png)
 
 
-**HOW TO ADD GLASP EXTENSION FOR SAFARI**
+### HOW TO ADD GLASP EXTENSION FOR SAFARI
 
 For those using Mac Os, here is a process to install Glasp extension on your PC.
 
@@ -110,11 +109,11 @@ For those using Mac Os, here is a process to install Glasp extension on your PC.
 
 Now you have successfully downloaded Glasp on your PC, moving on to the next phase.
 
-**HOW TO USE GLASP ON YOUR PC**
+## HOW TO USE GLASP ON YOUR PC
 
 There are a few ways one can use Glasp, ranging from highlighting of text to transcribing youtube videos. Here are a few guides to make it simpler for you to comprehend how to use Glasp:
 
-**Signing Up For Glasp :**
+### Signing Up For Glasp :
 
 
 
@@ -145,8 +144,8 @@ Once that's done, click on the save option.
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aw6oyodsqjr1b38i0v8y.png)
 
-
-**Highlighting Of Text Using Glasp:** One of the major uses of Glasp is to highlight text without the need to change your screen display to your notes.
+### Highlighting Of Text Using Glasp:
+ One of the major uses of Glasp is to highlight text without the need to change your screen display to your notes.
 
 
 
@@ -166,7 +165,7 @@ Once that's done, click on the save option.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oedvct4vit61zrbzc5gt.png)
 
 
-**Transcribing Youtube Videos With Glasp**
+### Transcribing Youtube Videos With Glasp
 
 Using ChatGPT, Glasp can transcribe youtube videos. Let's say you are watching a video, and you don’t want to miss any part of the major point you can simply select the ChatGPT option beside the video.
 
@@ -184,7 +183,7 @@ The ChatGPT image
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u2jt77t3rju9con4fcnt.png)
 
-**CONCLUSION**
+## CONCLUSION
 
 Right here, you have learned the fundamentals of using Glasp, a potent program for planning and controlling highlighting text, transcribing videos, and how to create an account in this user manual.
 
