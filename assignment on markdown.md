@@ -1,3 +1,31 @@
+**Table of content:**
+- [INTRODUCTION TO GLASP](#introduction-to-glasp)
+  - [What is Glasp?](#what-is-glasp)
+  - [FEATURES OF GLASP](#features-of-glasp)
+  - [HOW TO ADD GLASP EXTENSION ON A PC](#how-to-add-glasp-extension-on-a-pc)
+    - [HOW TO ADD GLASP EXTENSION ON CHROME](#how-to-add-glasp-extension-on-chrome)
+    - [HOW TO ADD GLASP EXTENSION FOR SAFARI](#how-to-add-glasp-extension-for-safari)
+  - [HOW TO USE GLASP ON YOUR PC](#how-to-use-glasp-on-your-pc)
+    - [Signing Up For Glasp :](#signing-up-for-glasp-)
+    - [Highlighting Of Text Using Glasp:](#highlighting-of-text-using-glasp)
+    - [Transcribing Youtube Videos With Glasp](#transcribing-youtube-videos-with-glasp)
+  - [CONCLUSION](#conclusion)
+
+<!-- headings -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a id="item-one"></a>
 # INTRODUCTION TO GLASP
 
 
@@ -19,6 +47,7 @@ Glasp is a social highlighting tool that enables you to collect and arrange quot
 
 Users that apply this method of learning may discover connections and patterns that they might not have found on their own.
 
+<a id="item-two"></a>
 ## FEATURES OF GLASP
 
 Glasp has a lot of features that stand out, and here are a few of them.
@@ -31,6 +60,7 @@ Glasp has a lot of features that stand out, and here are a few of them.
 
 **Learning In Public:** On Glasp, you can view what your friends are reading as well as share what you're reading with them. It's similar to a virtual book club where you may talk about your favorite books and your ideas about them. You can underline crucial passages or statements from books about Glasp that you think are particularly insightful or instructive.
 
+<a id="item-three"></a>
 ## HOW TO ADD GLASP EXTENSION ON A PC
 
 The process to add a Glasp extension on a pc is somewhat of a simple task, here is a step-by-step process.
