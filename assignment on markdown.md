@@ -5,11 +5,11 @@
 
 
 
-**#GLASP: A USER GUIDE**
+**GLASP: A USER GUIDE**
 
-**##INTRODUCTION TO GLASP**
+**INTRODUCTION TO GLASP**
 
-**H1What is Glasp?**
+**What is Glasp?**
 
 Glasp is an online highlighter that enables you to store and organize quotes and ideas from the internet while also giving you access to other people's saved content who share your interests. With this practical tool, you can study and work with people more easily without having to flip between separate displays.
 
