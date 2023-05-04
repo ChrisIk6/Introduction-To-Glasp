@@ -6,7 +6,7 @@
 
 
 
-**# INTRODUCTION TO GLASP**
+# INTRODUCTION TO GLASP
 
 **## What is Glasp?**
 
